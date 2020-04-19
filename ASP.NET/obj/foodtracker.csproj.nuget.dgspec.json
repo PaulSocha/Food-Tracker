@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pauls\\documents\\codingrepo\\foodtracker\\foodtracker.csproj": {}
+    "C:\\Users\\pauls\\documents\\codingrepo\\foodtracker\\asp.net\\foodtracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pauls\\documents\\codingrepo\\foodtracker\\foodtracker.csproj": {
+    "C:\\Users\\pauls\\documents\\codingrepo\\foodtracker\\asp.net\\foodtracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pauls\\documents\\codingrepo\\foodtracker\\foodtracker.csproj",
+        "projectUniqueName": "C:\\Users\\pauls\\documents\\codingrepo\\foodtracker\\asp.net\\foodtracker.csproj",
         "projectName": "foodtracker",
-        "projectPath": "C:\\Users\\pauls\\documents\\codingrepo\\foodtracker\\foodtracker.csproj",
+        "projectPath": "C:\\Users\\pauls\\documents\\codingrepo\\foodtracker\\asp.net\\foodtracker.csproj",
         "packagesPath": "C:\\Users\\pauls\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pauls\\documents\\codingrepo\\foodtracker\\obj\\",
+        "outputPath": "C:\\Users\\pauls\\documents\\codingrepo\\foodtracker\\asp.net\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -39,15 +39,23 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp2.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[2.1.1, )",
+              "autoReferenced": true
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -60,14 +68,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
