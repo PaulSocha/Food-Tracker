@@ -1,6 +1,6 @@
 # food-tracker
 
-> Food tracker
+> Food tracker using ASP.Net core 2.1 and Vue JS
 
 ## Build Setup
 
