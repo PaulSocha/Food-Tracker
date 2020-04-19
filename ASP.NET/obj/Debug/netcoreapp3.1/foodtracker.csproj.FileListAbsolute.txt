@@ -1,0 +1,6 @@
+C:\Users\pauls\documents\codingrepo\foodtracker\obj\Debug\netcoreapp3.1\foodtracker.csprojAssemblyReference.cache
+C:\Users\pauls\documents\codingrepo\foodtracker\obj\Debug\netcoreapp3.1\staticwebassets\foodtracker.StaticWebAssets.Manifest.cache
+C:\Users\pauls\documents\codingrepo\foodtracker\obj\Debug\netcoreapp3.1\staticwebassets\foodtracker.StaticWebAssets.xml
+C:\Users\pauls\documents\codingrepo\foodtracker\obj\Debug\netcoreapp3.1\foodtracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pauls\documents\codingrepo\foodtracker\obj\Debug\netcoreapp3.1\foodtracker.AssemblyInfoInputs.cache
+C:\Users\pauls\documents\codingrepo\foodtracker\obj\Debug\netcoreapp3.1\foodtracker.AssemblyInfo.cs
