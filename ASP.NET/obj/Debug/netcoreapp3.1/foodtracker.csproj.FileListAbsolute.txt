@@ -53,3 +53,4 @@ C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp3.1\
 C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp3.1\foodtracker.csproj.CopyComplete
 C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp3.1\foodtracker.dll
 C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp3.1\foodtracker.pdb
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp3.1\foodtracker.MvcApplicationPartsAssemblyInfo.cs

@@ -1,0 +1,16 @@
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\bin\Debug\netcoreapp2.2\foodtracker.deps.json
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\bin\Debug\netcoreapp2.2\foodtracker.runtimeconfig.json
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\bin\Debug\netcoreapp2.2\foodtracker.runtimeconfig.dev.json
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\bin\Debug\netcoreapp2.2\foodtracker.dll
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\bin\Debug\netcoreapp2.2\foodtracker.pdb
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp2.2\foodtracker.csprojAssemblyReference.cache
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp2.2\foodtracker.RazorAssemblyInfo.cache
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp2.2\foodtracker.RazorAssemblyInfo.cs
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp2.2\foodtracker.AssemblyInfoInputs.cache
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp2.2\foodtracker.AssemblyInfo.cs
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp2.2\foodtracker.RazorTargetAssemblyInfo.cache
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp2.2\foodtracker.dll
+C:\Users\pauls\documents\codingrepo\foodtracker\asp.net\obj\Debug\netcoreapp2.2\foodtracker.pdb
